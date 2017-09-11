@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>this is the first page</h1>
+<h1>this is the second page</h1>
 </body>
 </html>
